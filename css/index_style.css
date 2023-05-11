@@ -1,0 +1,27 @@
+body {
+    background-color: khaki;
+}
+p {
+    font-family: cursive;
+    font-weight: 700;
+}
+
+.texto-rojo {
+    color: red;
+}
+
+#texto-verde {
+    color: green;
+}
+
+i {
+    color: blueviolet;
+}
+
+#i-amarillo {
+    color: yellow;
+}
+
+.grande {
+    font-size: x-large;
+}

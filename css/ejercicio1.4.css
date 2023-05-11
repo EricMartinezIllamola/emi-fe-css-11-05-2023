@@ -1,0 +1,22 @@
+body {
+    background-color:rgb(245, 242, 216);
+}
+
+h1 {
+    background-color:rgb(253, 210, 131);
+    font-size:x-large;
+    color: rgb(80, 74, 74);
+}
+
+h2 {
+    color:rgb(112, 129, 193);
+    font-size: xx-large;
+}
+
+.i-atributos {
+    color: rgb(47, 108, 148);
+}
+
+dt {
+    color:darkcyan;
+}

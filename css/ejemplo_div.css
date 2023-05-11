@@ -1,0 +1,19 @@
+div {
+    height: 80lvh;
+    float: left;
+}
+
+#caja1 {
+    background-color: orange;
+    width: 30%;
+}
+
+#caja2 {
+    background-color: green;
+    width: 40%;
+}
+
+#caja3 {
+    background-color: blue;
+    width: 30%;
+}
